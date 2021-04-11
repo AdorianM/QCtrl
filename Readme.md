@@ -1,6 +1,6 @@
 Quantum Computing Repository
 
 Team:
-Emanuela Ionas
-Elisa Pop
+Emanuela Ionas;
+Elisa Pop;
 Mititean Adorian
